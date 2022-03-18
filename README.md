@@ -3,7 +3,7 @@
 
 The models are largely similar, but explore different ways of distorting and saturating the signals
 
-V1 - Clean/No Saturation
-V2 - Changes in Filter Behaviour, no saturation
-V3 - Peak Limited per filter
-V4 - Wavefolding per band via pong
+V1 - Clean/No Saturation<br/>
+V2 - Changes in Filter Behaviour, no saturation<br/>
+V3 - Peak Limited per filter<br/>
+V4 - Wavefolding per band via pong<br/>
